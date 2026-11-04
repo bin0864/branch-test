@@ -1,8 +1,12 @@
 h1{
     color: saddlebrown;
+    background-color: skyblue;
 }
 
 form{
     border: 3px solid darkblue;
     padding: 10px;
+}
+,h2{
+    background-color: skyblue;
 }
